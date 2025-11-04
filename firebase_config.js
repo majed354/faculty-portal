@@ -1,12 +1,12 @@
 // ⚠️ هذا الملف يحتاج تعديل - اتبع التعليمات أدناه
 const firebaseConfig = {
-  apiKey: "AIzaSyBdNamS49AFq_U9nO95p5KvQhhmdng0c7I",
-  authDomain: "my-netlify-app-9ce62.firebaseapp.com",
-  databaseURL: "https://my-netlify-app-9ce62-default-rtdb.firebaseio.com",
-  projectId: "my-netlify-app-9ce62",
-  storageBucket: "my-netlify-app-9ce62.firebasestorage.app",
-  messagingSenderId: "532298452257",
-  appId: "1:532298452257:web:5a47b683ba357c4fbc8260"
+  apiKey: "AIzaSyCXUfVZgac28hxezDCc6l4h7sC5au7zctA",
+  authDomain: "faculty-data-f2ceb.firebaseapp.com",
+  projectId: "faculty-data-f2ceb",
+  storageBucket: "faculty-data-f2ceb.firebasestorage.app",
+  messagingSenderId: "1045696055217",
+  appId: "1:1045696055217:web:8c45657364b3cb99ff1f90",
+  measurementId: "G-FB38DKBV8Q"
 };
 
 // تهيئة Firebase
