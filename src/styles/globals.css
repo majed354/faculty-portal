@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* تحسين الطباعة */
+@media print {
+  .no-print { display: none !important; }
+  .print-p { page-break-inside: avoid; }
+  body { color: #000; }
+}
+
+html[dir="rtl"] { direction: rtl; }

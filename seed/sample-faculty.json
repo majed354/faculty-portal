@@ -1,0 +1,23 @@
+[
+  {
+    "id": "m1",
+    "nameAr": "أحمد بن علي",
+    "nationality": "SAUDI",
+    "positions": [
+      { "rank": "ASSISTANT_PROF", "departmentId": "CS", "branchId": "MAIN", "startTermId": "2024-fall" }
+    ],
+    "createdAt": 1714930000000,
+    "updatedAt": 1714930000000
+  },
+  {
+    "id": "m2",
+    "nameAr": "محمد يوسف",
+    "nationality": "FOREIGN",
+    "positions": [
+      { "rank": "ASSOCIATE_PROF", "departmentId": "IS", "branchId": "BR1", "startTermId": "2024-fall", "endTermId": "2025-spring" },
+      { "rank": "PROFESSOR", "departmentId": "IS", "branchId": "BR1", "startTermId": "2025-fall" }
+    ],
+    "createdAt": 1714930000000,
+    "updatedAt": 1714930000000
+  }
+]
